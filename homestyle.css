@@ -3,3 +3,9 @@
     text-align: centre;
     font-family: "Papyrus", serif
 }
+
+.recipe {
+    font-size: 24px;
+    font-family: "Monaco", serif;
+    color: rgb(149, 72, 236)
+}
